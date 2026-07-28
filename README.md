@@ -25,3 +25,4 @@ This website can be uploaded to:
 - Hostinger
 - cPanel hosting
 - GitHub Pages
+# Murads-salon
