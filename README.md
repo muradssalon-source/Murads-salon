@@ -26,3 +26,4 @@ This website can be uploaded to:
 - cPanel hosting
 - GitHub Pages
 # Murads-salon
+# Murads-salon
