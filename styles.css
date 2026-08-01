@@ -499,15 +499,44 @@ footer p {
 }
 
 @media (max-width: 760px) {
+
   .site-header {
-    height: 72px;
-    padding: 0 20px;
-  }
+  height: 72px;
+  padding: 0 20px;
+}
+
+.hero {
+  min-height: 720px;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 90px 22px 45px;
+}
+
+.hero-content {
+  width: 100%;
+  max-width: none;
+  transform: none;
+  margin-top: auto;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.hero-video {
+    object-fit: cover;
+    object-position: center center;
+}
+
 
   .brand-logo {
     width: 142px;
     height: 50px;
   }
+
+  
 
   .menu-button {
     display: block;
